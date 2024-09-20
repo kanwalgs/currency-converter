@@ -13,9 +13,9 @@ This is a single-page Vue.js application that converts a given amount between cu
 Node.js and npm should be installed on your machine. If you don’t have them installed, follow this guide to install them.
 ### Clone the Repository
 ```
-git clone https://github.com/yourusername/currency-converter-with-uncertainty.git
+git clone https://github.com/kanwalgs/currency-converter.git
 
-cd currency-converter-with-uncertainty
+cd currency-converter
 ```
 ### Install Dependencies
 ```
